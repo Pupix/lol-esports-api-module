@@ -4,7 +4,7 @@ A wrapper module for League of Legends' eSports [API](http://na.lolesports.com/a
 All methods can be either used with a `callback` method or as a `promise`
 
 ## Download
-lol-riot-api is installable via:
+lol-esports-api-module is installable via:
 
 - [GitHub](https://github.com/Pupix/lol-esports-api-module) `git clone https://github.com/Pupix/lol-esports-api-module.git`
 - [npm](https://www.npmjs.com/): `npm install lol-esports-api-module`
