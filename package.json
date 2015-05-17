@@ -1,0 +1,36 @@
+{
+  "name": "lol-esports-api-module",
+  "license": "MIT",
+  "description": "A wrapper for League of Legends' eSports API",
+  "version": "0.9.0",
+  "homepage": "https://github.com/Pupix/lol-riot-api",
+  "author": {
+    "name": "Robert Manolea",
+    "email": "manolea.robert@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "Robert Manolea",
+      "email": "manolea.robert@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pupix/lol-esports-api-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pupix/lol-esports-api-module/issues"
+  },
+  "dependencies": {
+    "expandjs": "^0.8.0",
+    "xp-request": "^0.8.0"
+  },
+  "keywords": [
+    "league of legends",
+    "lol",
+    "api",
+    "module",
+    "lolesports",
+    "esports"
+  ]
+}
